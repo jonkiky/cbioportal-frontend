@@ -186,7 +186,7 @@
     "fast_array_intersect": "^1.1.0",
     "file-loader": "^3.0.1",
     "fixed-data-table": "^0.6.3",
-    "fmin": "^0.0.2",
+    "fmin": "^0.0.4",
     "font-awesome": "^4.7.0",
     "fork-ts-checker-webpack-plugin": "^6.3.3",
     "genome-nexus-ts-api-client": "^1.1.33",
