@@ -182,7 +182,7 @@
     "enzyme-adapter-react-16": "^1.12.1",
     "enzyme-custom-wrappers": "^1.0.0",
     "expired-storage": "^1.0.2",
-    "express": "^4.16.4",
+    "express": "^4.21.2",
     "fast_array_intersect": "^1.1.0",
     "file-loader": "^3.0.1",
     "fixed-data-table": "^0.6.3",
